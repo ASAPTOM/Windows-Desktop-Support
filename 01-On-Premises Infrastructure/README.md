@@ -1,3 +1,14 @@
+Operating System
+Windows OS
+Server OS
+Commands
+Data Center
+Build Server
+Domain
+Workgroup
+Joining to Domain
+Domain Controller
+Member Server
 # Operating System
 
 ## Definition
